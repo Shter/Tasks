@@ -1,4 +1,3 @@
-/*
     console.log('1//-----------------------------------')
     sortWords('A3lice 2Bob Er1nst') //  'Er1nst 2Bob A3lice';
     sortWords('2Fiona Ig15or J1amila B3ob Ali5ce') //  'J1amila 2Fiona B3ob A3lice Ig15or';
@@ -99,7 +98,7 @@
     };
 
     o1.sum(); // ???
-    //setTimeout(o.sum.bind(o), 5000);*/
+    //setTimeout(o.sum.bind(o), 5000);
 
 
     console.log('11//-----------------------------------')
